@@ -1,6 +1,26 @@
+## 一键命令 
+docker run -d -p 6001:6001 --name migu2026 qqt8520/migu2026:1.0
+
+或者是：
+
+docker run -d \
+-p 6001:6001 \
+--name migu2026 \
+qqt8520/migu2026:1.0
+
+解决非大陆服务器不能部署问题 访问方式： 部署后自己服务器IP+端口/频道id
+
+如： CCTV2,http://115.58.151.196:1234/631780532
+
+改成自己服务器：CCTV2,http://服务器IP:6001/631780532
+
+更多频道参考：https://raw.githubusercontent.com/5d5d5f5f5f/10102/refs/heads/main/0623.txt
+## TXT  免workers部署 ， 小白测试链接： https://2121.ccwu.cc
+## 聚合搜索 免workers部署 ， 小白测试链接： https://9810.ccwu.cc
 ## Mitv 免workers部署 ， 小白测试链接： https://itv.tv1288.xyz
 
 ## 夸克网盘免费扩容1TB：https://pan.quark.cn/s/24e7633bbfaf
+## 临时聊天群：http://45.192.97.170:8103
 -----------------
 ## 不同文件夹JS访问：变量值说明
 【TXT M3U 同一个变量值】，
