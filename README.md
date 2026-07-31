@@ -15,12 +15,14 @@ qqt8520/migu2026:1.0
 改成自己服务器：CCTV2,http://服务器IP:6001/631780532
 
 更多频道参考：https://raw.githubusercontent.com/5d5d5f5f5f/10102/refs/heads/main/0623.txt
-## TXT  免workers部署 ， 小白测试链接： https://2121.ccwu.cc
+## ~~(已失效)免workers部署 ， 小白测试链接： https://2121.ccwu.cc~~
 ## 聚合搜索 免workers部署 ， 小白测试链接： https://9810.ccwu.cc
 
 
 ## 夸克网盘免费扩容1TB：https://pan.quark.cn/s/24e7633bbfaf
-## 临时聊天群：http://45.192.97.170:8103
+## 交流社区：http://45.192.97.170:8103
+![图片1](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/9cf104d6331c5d2a05778a35bf6f1cfb.png
+)
 -----------------
 ## 不同文件夹JS访问：变量值说明
 【TXT M3U 同一个变量值】，
@@ -51,6 +53,13 @@ qqt8520/migu2026:1.0
 ## 手机版（竖版）
 
 [点击下载 手机版](https://www.mpimg.cn/down.php/133b58548d55398dc5522dc06b1579f6.apk&8520)
+
+安卓极致播放器下载：
+## 极致TV版（横版）
+
+[点击下载 TV版](https://tv1288.xyz/极致.apk)
+---
+
 
 ## TXT M3U   变量值公众号文章留言评论区自行查看获取
 
